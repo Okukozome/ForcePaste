@@ -25,7 +25,7 @@ TRANSLATIONS = {
     },
     "btn_settings": {
         "zh": "设置 (Settings)",
-        "en": "Settings (设置 )"
+        "en": "Settings (设置)"
     },
     "btn_stop": {
         "zh": "正在中断...",
