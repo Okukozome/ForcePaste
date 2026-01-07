@@ -126,7 +126,7 @@ class ConfigManager:
             "hotkey_delay": 100,
             "char_delay": 20,
             "random_jitter": 5,
-            "hotkey": "ctrl+shift+m",
+            "hotkey": "ctrl+shift+y",
             "always_on_top": True,
             "tab_to_space": True,
             "anti_staircase": False,
